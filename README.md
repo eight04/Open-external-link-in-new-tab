@@ -4,7 +4,7 @@ This script will open any external link in new tab. Support dynamic content
 
 Install
 -------
-[Greasy Fork](https://greasyfork.org/scripts/4255-linkify-plus-plus).
+[Greasy Fork](https://greasyfork.org/zh-TW/scripts/9499-open-external-link-in-new-tab).
 
 Testcase
 --------
