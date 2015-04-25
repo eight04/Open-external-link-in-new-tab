@@ -12,5 +12,5 @@ Testcase
 
 Changelog
 ---------
-* Version 0.0.1 (2015/4/26)
+* Version 0.1.0 (2015/4/26)
 	- First release.
