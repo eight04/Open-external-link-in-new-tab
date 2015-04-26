@@ -12,5 +12,7 @@ Testcase
 
 Changelog
 ---------
+* Version 0.1.1 (2015/4/26)
+	- Ignore `javascript:` link.
 * Version 0.1.0 (2015/4/26)
 	- First release.
