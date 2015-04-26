@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name        Open external link in new tab
-// @version     0.1.1
+// @version     0.1.2
 // @namespace   eight04.blogspot.com
 // @description This script will open any external link in new tab. Support dynamic content
 // @include     http*
+// @grant		none
 // ==/UserScript==
 
 "use strict";

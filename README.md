@@ -12,7 +12,9 @@ Testcase
 
 Changelog
 ---------
-* Version 0.1.1 (2015/4/26)
+* Version 0.1.2 (Apr 26, 2015)
+	- Add `@grant`.
+* Version 0.1.1 (Apr 26, 2015)
 	- Ignore `javascript:` link.
-* Version 0.1.0 (2015/4/26)
+* Version 0.1.0 (Apr 26, 2015)
 	- First release.
