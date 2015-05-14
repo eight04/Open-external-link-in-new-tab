@@ -12,6 +12,8 @@ Testcase
 
 Changelog
 ---------
+* Version 0.1.3 (May 14, 2015)
+	- Ignore the event if it is not triggered by user.
 * Version 0.1.2 (Apr 26, 2015)
 	- Add `@grant`.
 * Version 0.1.1 (Apr 26, 2015)
